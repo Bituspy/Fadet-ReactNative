@@ -5,7 +5,7 @@ npx expo install react-native-screens react-native-safe-area-context <br>
 npm install @react-navigation/native-stack <br>
 expo install firebase <br>
  <hr>
-<b>Preview</b>
+<b>Preview</b><br>
 <i>Sign In/Sign Up page</i>
 <img width="200" src="https://user-images.githubusercontent.com/24206661/207577267-6fd857e9-82a3-4043-932b-3c37ac4d9766.jpeg"/>
 <i>Creating an account</i>
